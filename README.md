@@ -1,6 +1,6 @@
 # QLabs PQC SDK - TypeScript
 
-**Status**: 🚧 Coming Soon (Beta: Q2 2025)
+**Status**: 🚧 Coming Soon (Beta: Q2 2026)
 
 TypeScript/JavaScript SDK for QLabs PQC Signature API.
 
